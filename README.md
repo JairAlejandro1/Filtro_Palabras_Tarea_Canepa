@@ -1,1 +1,1 @@
-![Clase UML Palabras Prohibidas](https://github.com/user-attachments/assets/938adae3-a2b1-47fd-af51-f9e2f3d4d483)
+![Clase UML Palabras Prohibidas](https://github.com/user-attachments/assets/e8245bb1-8782-44f9-a428-8ee4ecc06272)
